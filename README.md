@@ -9,19 +9,35 @@
 
 ## The idea
 
-Vores idé er at bygge et vagtplanlægningsystem som skal kunne bruges til time-tracking, både for at holde styr på sine vagtplaner som ansat, og for at chefer kan holde styr på sine ansatte.
-Vores applikation skal kunne holde ugens dage, hvor at chefen udelukkende styrer sine ansattes vagter, så de ansatte blot skal logge ind og se hvor og hvornår de skal møde op.
+"Generisk Vagtplanlægnings System" er vores idé om at bygge et vagtplanlægningsystem som skal kunne bruges til time-tracking, Dette er tiltænkt til brug for både managers samt ansatta, som begge vil kunne benytte sig af de funktioner som GVS indeholder. Vores tanker er at GVS holder alle ugens dage, samt et par pre-definerede time-slots, som selvfølgelig kan tilrettes efter behov. 
 
-Derfra er der plads til videreudvikling:
+### Hvordan bruger manageren GVS?
+
+GVS bruges af manageren, som vil kunne tilrettelægge sine timesheets efter behov. 
+En given mandag, hvor der er åbent 10-18 kunne f.eks. plottes ind sådan her:
+
+09.00-14.00 Rikke 
+12.00-19.00 Thomas
+18.30-20.00 Marc (Rengøring)
+
+Dette giver manageren et godt overblik, som også vil kunne ses på de ansattes app, så der beholdes et form for overblik for alle.
+En senere iteration vil være at de ansatte indbyrdes, gennem programmet, kan bytte vagter.
+
+### Hvordan bruger de ansatte GVS?
+
+GVS bruges for de ansatte, som opslag, hvor de altid kan se hvilke vagter de har. At det er sat op sådan her, kan også ses som en form for "kontrakt" mellem ansat og manager, så der er klarhed over hvem og hvor som møder ind.
+
+## Yderligere iterationer
+
 - Ansatte kan bytte vagter
 - Indbygget lønsystem (evt intergeration med danløn)
 - Automatisk udregning af feriedage
 
-Derfra kan dette projekt intergeres med andre systemer, for eksempel kunne man også lave dette projekt om til et form for "vikar-berau" eller lignende.
+Derfra kan dette projekt intergeres med andre systemer, for eksempel kunne man også lave dette projekt om til et form for "vikar-bureau" eller lignende.
 
-## Project planning
+## Projekt planlægning
 
-Her er vores miro board som også viser de tanker og idéer vi løbende får:
+Vi bruger Miro til at planlægge vores projekter. Det giver os et enormt overblik, til både projektets forløb, men også idéer og andet. Det er for os bedre end f.eks. discord, hvor chats hurtigt drukner.
 https://miro.com/app/board/uXjVNwQcOPs=/?share_link_id=840142670896
 
 I miro benytter vi os også at kanban boards til planlægning, som vi har benyttet os af under alle vores projekter på studiet.
