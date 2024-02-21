@@ -1,10 +1,11 @@
 # GVS
 
 ## Gruppe R
-Rasmus Tornby Arendt
-Deniz Sonmez
-Victor Christensen
-Marcus Løbel
+
+- Rasmus Tornby Arendt 
+- Deniz Sonmez
+- Victor Christensen
+- Marcus Løbel
 
 ## The idea
 
