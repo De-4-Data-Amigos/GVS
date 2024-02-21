@@ -17,7 +17,9 @@ GVS bruges af manageren, som vil kunne tilrettelægge sine timesheets efter beho
 En given mandag, hvor der er åbent 10-18 kunne f.eks. plottes ind sådan her:
 
 09.00-14.00 Rikke 
+
 12.00-19.00 Thomas
+
 18.30-20.00 Marc (Rengøring)
 
 Dette giver manageren et godt overblik, som også vil kunne ses på de ansattes app, så der beholdes et form for overblik for alle.
